@@ -1,0 +1,7 @@
+{
+  "name": "deanimated",
+  "version": "0.0.1",
+  "description": "Disables the laggy JS animation for opening/closing the settings. Optionally replaces it with a CSS animation.",
+  "author": "Penguin_Spy",
+  "license": "GPL-3.0-or-later"
+}
